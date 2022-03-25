@@ -7,7 +7,7 @@ class config:
     DOWNLOAD_DIRECTORY = "./downloads/"
     SUPPORT_CHAT_LINK = "https://t.me/lkhitech"
     G_DRIVE_CLIENT_ID = "906626584869-4o61qf1ash9750b48vv031ugrjun2me4.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_SECRET = "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"
     
 
 
